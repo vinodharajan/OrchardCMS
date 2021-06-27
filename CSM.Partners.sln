@@ -9,11 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSM.Partners.Web", "src\CSM
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{B730DE45-42AB-458D-BD3F-B87696B641D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSM.Partners.Core", "src\Modules\CSM.Partners.Core\CSM.Partners.Core.csproj", "{171CAF05-FDCE-4612-8BB3-B29AF9C1E0E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSM.Partners.Core", "src\CSM.Partners.Modules\CSM.Partners.Core\CSM.Partners.Core.csproj", "{171CAF05-FDCE-4612-8BB3-B29AF9C1E0E3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Themes", "Themes", "{AE744ACA-1245-4508-85A9-85D593BBFF8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSM.Partners.Themes", "src\Themes\CSM.Partners.Themes\CSM.Partners.Themes.csproj", "{4A492827-522A-4078-BC7B-720DBB2CAE27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSM.Partners.Themes", "src\CSM.Partners.Themes\CSM.Partners.Themes\CSM.Partners.Themes.csproj", "{4A492827-522A-4078-BC7B-720DBB2CAE27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

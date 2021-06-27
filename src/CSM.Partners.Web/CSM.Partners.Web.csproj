@@ -18,8 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Modules\CSM.Partners.Core\CSM.Partners.Core.csproj" />
-    <ProjectReference Include="..\Themes\CSM.Partners.Themes\CSM.Partners.Themes.csproj" />
+    <ProjectReference Include="..\CSM.Partners.Modules\CSM.Partners.Core\CSM.Partners.Core.csproj" />
+    <ProjectReference Include="..\CSM.Partners.Themes\CSM.Partners.Themes\CSM.Partners.Themes.csproj" />
   </ItemGroup>
 
 </Project>
